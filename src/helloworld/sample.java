@@ -8,6 +8,12 @@ public class sample {
 		System.out.println("H");
 		System.out.println("H");
 		System.out.println("H");
+		System.out.println("H");
+		System.out.println("I");
+		System.out.println("J");
+		System.out.println("K");
+		System.out.println("L");
+		System.out.println("M");
 	}
 
 }
